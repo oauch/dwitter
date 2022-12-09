@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { dbService } from "../fbase";
 
-const Home = () => {
+const Home = ({ userObj }) => {
+    console.log(userObj);
   const [dweet, setDweet] = useState("");
   const [dweets, setDweets] = useState([]);
   const getDweets = async () => {
@@ -10,6 +11,7 @@ const Home = () => {
       const dweetObject = {
         ...document.data(),
         id: document.id,
+        creatorId: 12121,
       };
       setDweets((prev) => [dweetObject, ...prev]); // set이 붙는 함수는 값 대신 함수를 전달
     });
@@ -32,7 +34,6 @@ const Home = () => {
     } = event; // event에 있는 targetd에 있는 value를 달라
     setDweet(value);
   };
-  console.log(dweets);
   return (
     <div>
       <form onSubmit={onSubmit}>
