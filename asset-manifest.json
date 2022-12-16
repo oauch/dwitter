@@ -1,13 +1,13 @@
 {
   "main.css": "/dwitter/static/css/main.28dc3693.chunk.css",
-  "main.js": "/dwitter/static/js/main.cec584db.chunk.js",
-  "main.js.map": "/dwitter/static/js/main.cec584db.chunk.js.map",
+  "main.js": "/dwitter/static/js/main.6161a398.chunk.js",
+  "main.js.map": "/dwitter/static/js/main.6161a398.chunk.js.map",
   "runtime~main.js": "/dwitter/static/js/runtime~main.1ee7c360.js",
   "runtime~main.js.map": "/dwitter/static/js/runtime~main.1ee7c360.js.map",
   "static/js/2.883f511b.chunk.js": "/dwitter/static/js/2.883f511b.chunk.js",
   "static/js/2.883f511b.chunk.js.map": "/dwitter/static/js/2.883f511b.chunk.js.map",
   "index.html": "/dwitter/index.html",
-  "precache-manifest.20a4b99120265b4a557710105ffc24ff.js": "/dwitter/precache-manifest.20a4b99120265b4a557710105ffc24ff.js",
+  "precache-manifest.67d73a25a8883cf04c41c60d891dc00c.js": "/dwitter/precache-manifest.67d73a25a8883cf04c41c60d891dc00c.js",
   "service-worker.js": "/dwitter/service-worker.js",
   "static/css/main.28dc3693.chunk.css.map": "/dwitter/static/css/main.28dc3693.chunk.css.map"
 }

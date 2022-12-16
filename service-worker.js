@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dwitter/precache-manifest.20a4b99120265b4a557710105ffc24ff.js"
+  "/dwitter/precache-manifest.67d73a25a8883cf04c41c60d891dc00c.js"
 );
 
 workbox.clientsClaim();

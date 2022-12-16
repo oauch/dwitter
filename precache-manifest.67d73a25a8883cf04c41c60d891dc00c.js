@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5a76bddfe40c915cbde9",
+    "revision": "12e00e8250ed0af87ea6",
     "url": "/dwitter/static/css/main.28dc3693.chunk.css"
   },
   {
-    "revision": "5a76bddfe40c915cbde9",
-    "url": "/dwitter/static/js/main.cec584db.chunk.js"
+    "revision": "12e00e8250ed0af87ea6",
+    "url": "/dwitter/static/js/main.6161a398.chunk.js"
   },
   {
     "revision": "3bf5bf74b09ab248b49f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/dwitter/static/js/2.883f511b.chunk.js"
   },
   {
-    "revision": "3e5886f07b25aa9cd3f4ec5fcc4f5005",
+    "revision": "fa929063c7db7c97b840991cec18e307",
     "url": "/dwitter/index.html"
   }
 ];
