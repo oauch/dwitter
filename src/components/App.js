@@ -33,7 +33,7 @@ function App() {
           userObj={userObj}
         />
       ) : (
-        "Initialiazing..."
+        "로딩중..."
       )}
     </>
   );

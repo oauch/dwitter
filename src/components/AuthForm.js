@@ -59,11 +59,15 @@ const AuthForm = () => {
           onChange={onChange}
           className="authInput"
         />
-        <input type="submit" value={newAccount ? "Create Account" : "Log In"} />
+         <input
+          type="submit"
+          className="authInput authSubmit"
+          value={newAccount ? "Create Account" : "Sign In"}
+        />
         {error && <span className="authError">{error}</span>}
       </form>
       <span onClick={toggleAccount} className="authSwitch">
-        {newAccount ? "Sign in" : "Create Account"}
+        {newAccount ? "Sign In" : "Create Account"}
       </span>
     </>
   );
