@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.28dc3693.chunk.css",
-  "main.js": "/static/js/main.cec584db.chunk.js",
-  "main.js.map": "/static/js/main.cec584db.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.042650c6.chunk.js": "/static/js/2.042650c6.chunk.js",
-  "static/js/2.042650c6.chunk.js.map": "/static/js/2.042650c6.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.4eff1e6dd671138b42183ce7ab430251.js": "/precache-manifest.4eff1e6dd671138b42183ce7ab430251.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.28dc3693.chunk.css.map": "/static/css/main.28dc3693.chunk.css.map"
+  "main.css": "/dwitter/static/css/main.28dc3693.chunk.css",
+  "main.js": "/dwitter/static/js/main.cec584db.chunk.js",
+  "main.js.map": "/dwitter/static/js/main.cec584db.chunk.js.map",
+  "runtime~main.js": "/dwitter/static/js/runtime~main.1ee7c360.js",
+  "runtime~main.js.map": "/dwitter/static/js/runtime~main.1ee7c360.js.map",
+  "static/js/2.883f511b.chunk.js": "/dwitter/static/js/2.883f511b.chunk.js",
+  "static/js/2.883f511b.chunk.js.map": "/dwitter/static/js/2.883f511b.chunk.js.map",
+  "index.html": "/dwitter/index.html",
+  "precache-manifest.20a4b99120265b4a557710105ffc24ff.js": "/dwitter/precache-manifest.20a4b99120265b4a557710105ffc24ff.js",
+  "service-worker.js": "/dwitter/service-worker.js",
+  "static/css/main.28dc3693.chunk.css.map": "/dwitter/static/css/main.28dc3693.chunk.css.map"
 }
